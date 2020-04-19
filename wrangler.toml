@@ -1,0 +1,6 @@
+name = "alnuaimy-cloudflare-fullstack"
+type = "javascript"
+account_id = "ae3c5638a381188b6d2d4700864e9f4f"
+workers_dev = true
+route = ""
+zone_id = ""
